@@ -8,7 +8,7 @@ animations, sound effects, and shareable results, this quiz was created for Hack
 - 6 unique summer personality types
 - Colorful, summer-themed design with floating emoji animations, soft shadows, rounded corners, and warm gradients
 - Progress bar to visually show quiz completion
-- Interactive audio (background music toggle, click sounds and results sound effect)
+- Interactive audio (background music toggle, click sounds)
 -Shareable results with a screenshot option
 
 ## How to Use:
